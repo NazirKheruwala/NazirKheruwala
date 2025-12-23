@@ -1,16 +1,23 @@
-## Hi there 👋
+## Nazir Kheruwala
+Software Developer | Frontend • Backend • ML | Dubai
 
-<!--
-**NazirKheruwala/NazirKheruwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build clean user interfaces, reliable backend services, and data-driven features. Comfortable contributing to frontend or backend tasks and adapting quickly to project needs.
 
-Here are some ideas to get you started:
+### Skills
+Frontend: HTML, CSS, JavaScript, React, TypeScript  
+Backend: Python (Django/Flask), Java (Spring Boot)  
+Databases: PostgreSQL, MySQL  
+ML: Python, model implementation and data handling  
+Tools: Git, REST APIs, Docker (basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- Midas Core – Spring Boot microservice with Kafka-based async processing  
+- QR Code Generator – Python backend utility  
+- Weather App – API-based application with backend logic
+
+📍 Dubai, UAE  
+✅ Immediate joiner  
+
+LinkedIn: https://www.linkedin.com/in/nazirkheruwala
+
+
